@@ -8,6 +8,6 @@ Take a long look *if you dare!*
 
 * I am brand new to coding
 * I don't really walk the talk
-* I haven't slept in about 48 hours
+* I haven't slept in about 49 hours
 
 ![Alt text](aaroncalander/GPS-face.jpg "Coding Jedi")
